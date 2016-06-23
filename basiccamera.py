@@ -17,3 +17,4 @@ camera.stop_recording()
 for i in range(100):
     camera.brightness = i
     sleep(0.1)
+#--------------
