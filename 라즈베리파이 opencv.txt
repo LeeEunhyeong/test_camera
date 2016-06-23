@@ -1,0 +1,15 @@
+http://cosmosjs.blog.me/220723901506
+
+
+http://cosmosjs.blog.me/220723901506
+
+http://cosmosjs.blog.me/220723901506
+
+https://www.raspberrypi.org/blog/picamera-pure-python-interface-for-camera-module/
+
+http://openlabtools.eng.cam.ac.uk/Resources/Imaging/RPiCamera/
+
+구매한 책의 녹화기능을 확인하고 파이썬으로 픽샐 배열 수정 방법에 대해 공부
+
+
+마스터의 버전을 더 높일 방법은 무엇일까?
