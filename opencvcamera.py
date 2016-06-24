@@ -29,3 +29,4 @@ for blob in blobs:
     blob.draw()  
 img.show()
 time.sleep(5) 
+#연속적인 이미지 촬영으로 영상을 만들면 속도가 너무 느리다 한방으로 가자
